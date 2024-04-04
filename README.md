@@ -136,7 +136,7 @@
 
 ## **FUZZ**
 
-1. Kita coba filter http untuk memudah pencariandan kita coba pilih salah satu packet yang memiliki banyak informasi didalamnya, dapat diketahui pada ip destination, merupakan ip flag dan saat kita buka lebih akan ada informasi tambahan
+1. Kita coba filter http untuk memudah pencarian dan kita coba pilih salah satu packet yang memiliki banyak informasi didalamnya, dapat diketahui pada ip destination, merupakan ip flag dan saat kita buka lebih akan ada informasi tambahan
     
     ![https://lh7-us.googleusercontent.com/GQ90TwwUNYJO7xHSk5EHYVG2Y1XYciofg8riEkFDKtLYLq-Vrx-fW7pOWHNLKOfBpLCeQ-Xn-IOnkArF3nBAlpmQ9RvZdjpuMJI2iNHJtPKp82KH_xHdYrgF_877n1xFQg1gEIRGQbfY3zhHSv5Jcw](https://lh7-us.googleusercontent.com/GQ90TwwUNYJO7xHSk5EHYVG2Y1XYciofg8riEkFDKtLYLq-Vrx-fW7pOWHNLKOfBpLCeQ-Xn-IOnkArF3nBAlpmQ9RvZdjpuMJI2iNHJtPKp82KH_xHdYrgF_877n1xFQg1gEIRGQbfY3zhHSv5Jcw)
     
